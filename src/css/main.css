@@ -1,4 +1,20 @@
+/* main.css */
+
 body {
     background-color: #1c2327;
     color: #ccd7df;
+    height: 100%;
+}
+
+.mid-title {
+    transform: translate(50%,0%);
+    position: absolute;
+    right: 50%;}
+
+/* Text Colours */
+.text-purple {
+    color: #bf98ea;
+}
+.text-blue {
+    color: #afc3d2;
 }
