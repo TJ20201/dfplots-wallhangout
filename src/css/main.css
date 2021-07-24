@@ -1,15 +1,23 @@
 /* main.css */
 
+@font-face {
+	font-family: creamfont;
+	src: url("../fonts/cream.ttf");
+}
+
 body {
     background-color: #1c2327;
     color: #ccd7df;
-    height: 100%;
 }
 
-.mid-title {
+#title {
     transform: translate(50%,0%);
+	font-family: creamfont;
+	margin-bottom: 0px;
+	margin-top: 0px;
     position: absolute;
-    right: 50%;}
+    right: 50%;
+}
 
 /* Text Colours */
 .text-purple {
