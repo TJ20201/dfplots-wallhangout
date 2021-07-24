@@ -18,3 +18,11 @@ body {
     position: absolute;
     right: 50%;
 }
+
+/* Text Colours */
+.text-purple {
+    color: #bf98ea;
+}
+.text-blue {
+    color: #afc3d2;
+}
